@@ -86,3 +86,37 @@ No contexto do planeta solar, o jogo que será desenvolvido poderia oferecer aos
 
 ## Informações Técnicas
 - Versão do Unity: **2021.3.24f1**
+
+## Calculo
+
+### Distância entre os planeta
+
+A distância dos planetas do Sistema Solar em relação à Terra varia significativamente, dependendo das posições relativas dos planetas no momento em que são medidos. Aqui estão as distâncias médias dos planetas do Sistema Solar em unidades astronômicas (UA) em relação à Terra:
+
+- Mercúrio: 0,39 UA
+- Vênus: 0,72 UA
+- Marte: 1,52 UA
+- Júpiter: 5,20 UA
+- Saturno: 9,58 UA
+- Urano: 19,18 UA
+- Netuno: 30,07 UA
+- Plutão (anteriormente considerado um planeta): 39,48 UA
+
+**Vale lembrar que a distância entre a Terra e os corpos celestes do Sistema Solar varia ao longo do tempo devido às suas órbitas elípticas.**
+
+A Lua é o satélite natural da Terra e está localizada a uma distância média de cerca de 1,28 UA em relação ao Sol. No entanto, a distância da Lua em relação à Terra varia ao longo do seu ciclo orbital, o que significa que a distância média da Lua em relação à Terra é de aproximadamente 0,00257 UA (ou 384.400 quilômetros). Essa distância é conhecida como uma unidade astronômica lunar (AL). Durante o perigeu (o ponto mais próximo da órbita da Lua em relação à Terra), a distância é de cerca de 0,00244 UA (ou 363.104 quilômetros), enquanto durante o apogeu (o ponto mais distante da órbita da Lua em relação à Terra), a distância é de cerca de 0,00272 UA (ou 405.696 quilômetros).
+
+### Tamanho em relação a terra
+
+Considerando que a Terra tem o tamanho de 1 unidade, então temos:
+
+- Sol: 109 vezes o tamanho da Terra em termos de diâmetro
+- Mercúrio: 38,3% do tamanho da Terra
+- Vênus: 94,9% do tamanho da Terra
+- Lua: 27% do tamanho da Terra
+- Marte: 53,2% do tamanho da Terra
+- Júpiter: 11,2 vezes o tamanho da Terra
+- Saturno: 9,45 vezes o tamanho da Terra
+- Urano: 4,01 vezes o tamanho da Terra
+- Netuno: 3,88 vezes o tamanho da Terra
+- Plutão (planeta anão): 18% do tamanho da Terra
